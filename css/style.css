@@ -33,7 +33,7 @@
 
 #onpage {
 	text-decoration: underline overline;
-color: #fff;
+	color: #fff;
 }
 
 #sidebar {
@@ -48,7 +48,6 @@ color: #fff;
   list-style-type: none;
   text-align: center;
   padding: 15px 0;
- 
 }
 
 #sidebar-container li a{
